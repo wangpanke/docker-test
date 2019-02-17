@@ -15,8 +15,8 @@ public class TestController {
 
     @RequestMapping("test")
     public String test() {
-        System.out.println("jenkins修改测试。。。");
-        return "jenkins修改测试";
+        System.out.println("docker的例子，哈哈哈哈哈");
+        return "docker的例子，哈哈哈哈哈";
     }
 
 }
